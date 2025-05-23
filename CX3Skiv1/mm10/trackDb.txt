@@ -1,0 +1,82 @@
+track CX3Skiv1
+container multiWig
+noInherit on
+shortLabel CX3Skiv1
+longLabel CX3Skiv1
+type bigWig
+configurable on
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+autoScale on
+windowingFunction maximum
+priority 1.4
+alwaysZero on
+yLineMark 0
+yLineOnOff on
+maxHeightPixels 100:75:11
+
+track mouse_Bulk_RNA_polyA_CrybbRBPJ4a_Gen2_1_CZH_l20250401
+bigDataUrl mouse_Bulk_RNA_polyA_CrybbRBPJ4a_Gen2_1_CZH_l20250401.ucsc.bigWig
+shortLabel mouse_Bulk_RNA_polyA_CrybbRBPJ4a_Gen2_1_CZH_l20250401
+longLabel mouse_Bulk_RNA_polyA_CrybbRBPJ4a_Gen2_1_CZH_l20250401
+type bigWig
+parent CX3Skiv1
+color 255,150,150
+
+track mouse_Bulk_RNA_polyA_CX3RBPJ2a_Gen2_5_CZH_l20250424
+bigDataUrl mouse_Bulk_RNA_polyA_CX3RBPJ2a_Gen2_5_CZH_l20250424.ucsc.bigWig
+shortLabel mouse_Bulk_RNA_polyA_CX3RBPJ2a_Gen2_5_CZH_l20250424
+longLabel mouse_Bulk_RNA_polyA_CX3RBPJ2a_Gen2_5_CZH_l20250424
+type bigWig
+parent CX3Skiv1
+color 150,150,255
+
+track mouse_Bulk_RNA_polyA_CxSki_7_3_CZH_l20250424
+bigDataUrl mouse_Bulk_RNA_polyA_CxSki_7_3_CZH_l20250424.ucsc.bigWig
+shortLabel mouse_Bulk_RNA_polyA_CxSki_7_3_CZH_l20250424
+longLabel mouse_Bulk_RNA_polyA_CxSki_7_3_CZH_l20250424
+type bigWig
+parent CX3Skiv1
+color 150,255,150
+
+track mouse_Bulk_RNA_polyA_CxSki_7_2_CZH_l20250424
+bigDataUrl mouse_Bulk_RNA_polyA_CxSki_7_2_CZH_l20250424.ucsc.bigWig
+shortLabel mouse_Bulk_RNA_polyA_CxSki_7_2_CZH_l20250424
+longLabel mouse_Bulk_RNA_polyA_CxSki_7_2_CZH_l20250424
+type bigWig
+parent CX3Skiv1
+color 255,200,150
+
+track mouse_Bulk_RNA_polyA_CxSki_7_4_CZH_l20250424
+bigDataUrl mouse_Bulk_RNA_polyA_CxSki_7_4_CZH_l20250424.ucsc.bigWig
+shortLabel mouse_Bulk_RNA_polyA_CxSki_7_4_CZH_l20250424
+longLabel mouse_Bulk_RNA_polyA_CxSki_7_4_CZH_l20250424
+type bigWig
+parent CX3Skiv1
+color 150,255,220
+
+track mouse_Bulk_RNA_polyA_CxSki_7_5_CZH_l20250424
+bigDataUrl mouse_Bulk_RNA_polyA_CxSki_7_5_CZH_l20250424.ucsc.bigWig
+shortLabel mouse_Bulk_RNA_polyA_CxSki_7_5_CZH_l20250424
+longLabel mouse_Bulk_RNA_polyA_CxSki_7_5_CZH_l20250424
+type bigWig
+parent CX3Skiv1
+color 200,150,255
+
+track mouse_Bulk_RNA_polyA_CXSKiFF_Gen2_14_CZH_l20250424
+bigDataUrl mouse_Bulk_RNA_polyA_CXSKiFF_Gen2_14_CZH_l20250424.ucsc.bigWig
+shortLabel mouse_Bulk_RNA_polyA_CXSKiFF_Gen2_14_CZH_l20250424
+longLabel mouse_Bulk_RNA_polyA_CXSKiFF_Gen2_14_CZH_l20250424
+type bigWig
+parent CX3Skiv1
+color 200,200,150
+
+track mouse_Bulk_RNA_polyA_CXSKiFF_Gen2_10_CZH_l20250424
+bigDataUrl mouse_Bulk_RNA_polyA_CXSKiFF_Gen2_10_CZH_l20250424.ucsc.bigWig
+shortLabel mouse_Bulk_RNA_polyA_CXSKiFF_Gen2_10_CZH_l20250424
+longLabel mouse_Bulk_RNA_polyA_CXSKiFF_Gen2_10_CZH_l20250424
+type bigWig
+parent CX3Skiv1
+color 150,200,200
+

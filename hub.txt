@@ -1,0 +1,5 @@
+hub CX3Skiv1
+shortLabel CX3Skiv1
+longLabel CX3Skiv1
+genomesFile genomes.txt
+email claudiahan@ucsd.edu
